@@ -4,6 +4,8 @@ Collection of technical papers related to the Ara project.
 
 ## Contents
 
-* Ara Whitepaper [(PDF)](ara-whitepaper.pdf)
-* Ara Rewards Analysis [(PDF)](ara-rewards-analysis.pdf)
-* DCDN Cost Analysis [(PDF)](dcdn-cost-analysis.pdf)
+* Ara Whitepaper - EN [(PDF)](ara-whitepaper-en.pdf)
+* Ara Whitepaper - KO [(PDF)](ara-whitepaper-ko.pdf)
+* Ara Whitepaper - ZH [(PDF)](ara-whitepaper-zh.pdf)
+* Ara Rewards Analysis - EN [(PDF)](ara-rewards-analysis.pdf)
+* DCDN Cost Analysis - EN [(PDF)](dcdn-cost-analysis.pdf)
